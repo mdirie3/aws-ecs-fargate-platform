@@ -2,11 +2,11 @@
     <img src="./images/coderco.jpg" alt="CoderCo" width="300"/>
 </div>
 
-# CoderCo Assignment 1 - Open Source App Hosted on ECS with Terraform 🚀
+# CoderCo Task - Open Source App Hosted on ECS with Terraform 🚀
 
 This project is based on Amazon's Threat Composer Tool, an open source tool designed to facilitate threat modeling and improve security assessments. You can explore the tool's dashboard here: [Threat Composer Tool](https://awslabs.github.io/threat-composer/workspaces/default/dashboard)
 
-## Task/Assignment 📝
+## Task Insight 📝
 
 - Create your own repository and complete the task there. You may create a `app` in your repo and copy all the files in this directory into it. Or alternatively, you can use this directory as is. Your choice.
 
