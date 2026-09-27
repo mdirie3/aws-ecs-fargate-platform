@@ -1,0 +1,14 @@
+app/node_modules/
+.git/
+.github/
+.vscode/
+.idea/
+
+*.log
+.env
+.env.*
+*.pem
+*.key
+
+README.md
+.gitignore
